@@ -1,2 +1,5 @@
-# action_set-spectral
-Apply Spectral Clustering to action segmentation
+# Temporal Action Segmentation with Spectral Clustering and HMM
+=======
+Cooperator: Yanxuan Lv, Beihang University
+
+

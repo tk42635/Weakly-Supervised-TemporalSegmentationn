@@ -1,5 +1,7 @@
-# Temporal Action Segmentation with Spectral Clustering and HMM
-=======
+# Temporal Action Segmentation
+
 Cooperator: Yanxuan Lv, Beihang University
+
+
 
 
